@@ -1,1 +1,1 @@
-# [Preview 👈](https://https://weather4castweb.netlify.app/)
+# [Preview 👈](https://weather4castweb.netlify.app/)
